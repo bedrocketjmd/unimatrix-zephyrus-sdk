@@ -23,3 +23,5 @@ require 'zephyrus/resources/not_found_error'
 # Resources
 require 'zephyrus/resources/input'
 require 'zephyrus/resources/output'
+require 'zephyrus/resources/output_routing_output'
+require 'zephyrus/resources/output_transcoding_output'

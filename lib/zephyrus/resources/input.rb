@@ -1,5 +1,5 @@
 module Zephyrus
-  class Output < Base
+  class Input < Base
     field :id
     field :created_at
     field :updated_at

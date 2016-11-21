@@ -22,3 +22,4 @@ require 'zephyrus/resources/not_found_error'
 
 # Resources
 require 'zephrys/resources/input'
+require 'zephrys/resources/output'

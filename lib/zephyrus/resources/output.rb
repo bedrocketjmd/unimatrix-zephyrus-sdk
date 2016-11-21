@@ -1,0 +1,14 @@
+module Zephyrus
+  class Output < Base
+    field :id
+    field :created_at
+    field :updated_at
+    field :url
+    field :key
+    field :uid
+    field :state
+    field :input_id
+    field :type
+    field :properties
+  end
+end

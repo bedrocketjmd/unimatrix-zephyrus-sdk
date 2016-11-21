@@ -21,5 +21,5 @@ require 'zephyrus/resources/malformed_parameter_error'
 require 'zephyrus/resources/not_found_error'
 
 # Resources
-require 'zephrys/resources/input'
-require 'zephrys/resources/output'
+require 'zephyrus/resources/input'
+require 'zephyrus/resources/output'

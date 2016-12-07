@@ -7,6 +7,7 @@ module Zephyrus
     field :key
     field :uid
     field :state
+    field :properties
     field :input_id
   end
 end

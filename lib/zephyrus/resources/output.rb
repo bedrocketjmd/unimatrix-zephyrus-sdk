@@ -3,7 +3,6 @@ module Zephyrus
     field :id
     field :created_at
     field :updated_at
-    field :url
     field :key
     field :uid
     field :state

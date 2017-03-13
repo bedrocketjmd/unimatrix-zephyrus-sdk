@@ -6,6 +6,7 @@ module Zephyrus
     field :state
     field :key
     field :uid
+    field :uuid
 
     has_many :outputs
   end

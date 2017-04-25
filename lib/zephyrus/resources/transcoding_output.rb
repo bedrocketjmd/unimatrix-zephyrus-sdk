@@ -10,6 +10,8 @@ module Zephyrus
     field :audio_sample_rate
     field :segment_duration
     field :segment_count
+    field :profile_idc
+    field :level_idc
 
   end
 end

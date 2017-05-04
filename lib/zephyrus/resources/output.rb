@@ -5,6 +5,7 @@ module Zephyrus
     field :updated_at
     field :key
     field :uid
+    field :uuid
     field :state
     field :input_id
   end

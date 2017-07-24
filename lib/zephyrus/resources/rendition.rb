@@ -1,5 +1,5 @@
 module Zephyrus
-  class TranscodingRendition < Base
+  class Rendition < Base
     field :id
     field :created_at
     field :updated_at

@@ -1,12 +1,11 @@
 module Zephyrus
-  class Rendition < Base
+  class TranscodingRendition < Base
     field :id
     field :created_at
     field :updated_at
     field :uid
     field :uuid
     field :output_id
-    field :content_type
     field :video_bitrate
     field :audio_bitrate
     field :height

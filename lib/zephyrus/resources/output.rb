@@ -8,5 +8,7 @@ module Zephyrus
     field :uuid
     field :state
     field :input_id
+
+    has_many :renditions
   end
 end

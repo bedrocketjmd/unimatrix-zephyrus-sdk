@@ -1,4 +1,4 @@
 module Zephyrus
-  class TransmutationRendition < Rendition
+  class TranscribingRendition < Rendition
   end
 end
